@@ -41,12 +41,14 @@ Se emplean distintos clasificadores supervisados, optimización de hiperparámet
    - Reporte de métricas de validación cruzada y comparación de desempeño entre modelos.
 
 ## Estructura del repositorio  
+```
 ├── CreditCardData.csv # Dataset original
 ├── reporte.ipynb # Notebook principal del análisis
 ├── pipeline.jpeg # Esquema del flujo de modelado
 ├── README.md # Este archivo
 ├── LICENSE # Licencia del proyecto
 └── .gitignore # Archivos ignorados por Git
+```
 
 ## Resultados
 - Modelo con mejor desempeño (según AUC-ROC).
