@@ -47,6 +47,7 @@ Se emplean distintos clasificadores supervisados, optimización de hiperparámet
 ├── pipeline.jpeg # Esquema del flujo de modelado
 ├── README.md # Este archivo
 ├── LICENSE # Licencia del proyecto
+├── presentacion.pdf # Presentación del proyecto
 └── .gitignore # Archivos ignorados por Git
 ```
 
